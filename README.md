@@ -2,9 +2,9 @@
 
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-This repository is dedicated to practicing and improving SQL skills. It includes various SQL scripts, exercises, and examples to help enhance your understanding and proficiency with SQL.
+This repository is dedicated to practicing and improving SQL skills. It includes various SQL scripts, exercises, and examples to help enhance my understanding and proficiency with SQL.
 
-## Getting Started
+## Getting benefitted my repository
 
 To get started with this repository, follow the instructions below.
 
