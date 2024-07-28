@@ -8,10 +8,6 @@ This repository is dedicated to practicing and improving SQL skills. It includes
 
 To get started with this repository, follow the instructions below.
 
-### Prerequisites
-
-- [SQLite](https://github.com/Elmoumen202a/SQL-Projects.git)
-
 ### Setting Up the Database
 
 1. Clone this repository to your local machine:
