@@ -1,0 +1,6 @@
+id,date,category,amount,description
+1,2024-08-01,Groceries,150.00,Weekly grocery shopping
+2,2024-08-02,Utilities,75.50,Electricity bill
+3,2024-08-03,Transport,20.00,Bus fare
+4,2024-08-04,Dining,45.00,Dinner at a restaurant
+5,2024-08-05,Entertainment,60.00,Movie tickets
