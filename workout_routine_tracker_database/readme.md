@@ -1,5 +1,9 @@
 # 🏋️ Workout Routine Tracker Database
 
+[Project Resources](./resources_readme.md)
+[Explanation of SQL Project](./Explanation_readme.md)
+
+
 This project sets up a SQL-based workout routine tracker that allows users to:
 - Log personal information (age, height, weight).
 - Track workouts by logging exercises, duration, and calories burned.
